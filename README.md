@@ -1,2 +1,0 @@
-# caravan
-HTML・CSSファイルです。
